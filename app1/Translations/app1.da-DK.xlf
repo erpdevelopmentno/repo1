@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 50100 - My New Table" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My New Table</source>
+          <target>Min Nye Tabel</target>
+        </trans-unit>
+        <trans-unit id="Table 50100 - Field 61000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Kode</target>
+        </trans-unit>
+        <trans-unit id="Table 50100 - Field 61001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Table 50100 - Field 61002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Beløb</target>
+        </trans-unit>
+        <trans-unit id="Table 50100 - Field 61003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Created</source>
+          <target>Oprettet Dato</target>
+        </trans-unit>
+        <trans-unit id="Page 50100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My New Table List</source>
+          <target>Min Nye Tabel Liste</target>
+        </trans-unit>
+        <trans-unit id="Page 50101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My New Table Card</source>
+          <target>Min Nye Tabel Kort</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff> 
